@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ai-website/static/css/main.9b41df3d.chunk.css",
+    "main.js": "/ai-website/static/js/main.927d3706.chunk.js",
+    "main.js.map": "/ai-website/static/js/main.927d3706.chunk.js.map",
+    "runtime-main.js": "/ai-website/static/js/runtime-main.deb96d5f.js",
+    "runtime-main.js.map": "/ai-website/static/js/runtime-main.deb96d5f.js.map",
+    "static/css/2.68f9a507.chunk.css": "/ai-website/static/css/2.68f9a507.chunk.css",
+    "static/js/2.d14285d5.chunk.js": "/ai-website/static/js/2.d14285d5.chunk.js",
+    "static/js/2.d14285d5.chunk.js.map": "/ai-website/static/js/2.d14285d5.chunk.js.map",
+    "index.html": "/ai-website/index.html",
+    "precache-manifest.b5f056015299284d9d91978d2c144836.js": "/ai-website/precache-manifest.b5f056015299284d9d91978d2c144836.js",
+    "service-worker.js": "/ai-website/service-worker.js",
+    "static/css/2.68f9a507.chunk.css.map": "/ai-website/static/css/2.68f9a507.chunk.css.map",
+    "static/css/main.9b41df3d.chunk.css.map": "/ai-website/static/css/main.9b41df3d.chunk.css.map",
+    "static/js/2.d14285d5.chunk.js.LICENSE.txt": "/ai-website/static/js/2.d14285d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.deb96d5f.js",
+    "static/css/2.68f9a507.chunk.css",
+    "static/js/2.d14285d5.chunk.js",
+    "static/css/main.9b41df3d.chunk.css",
+    "static/js/main.927d3706.chunk.js"
+  ]
+}

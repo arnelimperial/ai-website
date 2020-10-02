@@ -1,0 +1,38 @@
+.header--nav ul li {
+    font-weight: 700;
+    padding-right: 10px;
+    display: inline-block;
+
+}
+@media only screen and (max-width: 371px) {
+    .header--nav ul li{
+        display:block;
+    }
+}
+
+.header--nav ul li a {
+    //color: #1EAEDB;
+    color: blue;
+    text-decoration: underline;
+    list-style: circle inside;
+    
+}
+.header--ul li {
+  padding-left: 1em; 
+}
+
+#coder {
+    font-weight: 900;
+
+}
+
+@media only screen and (max-width: 338px) {
+    #coder {
+        font-size: 29px;
+    }
+}
+
+#coder a{
+    text-decoration: none;
+    color: #333;
+}

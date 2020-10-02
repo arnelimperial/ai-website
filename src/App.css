@@ -1,0 +1,77 @@
+.holder {
+  position: relative;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box; 
+}
+.anchor{
+  color: blue;
+  text-decoration: underline;
+  font-weight: 500;
+
+}
+.anchor:hover {
+  color:blue
+}
+
+main {
+  margin-top: 3rem;
+  padding-bottom: 5rem;
+}
+
+ul {
+  list-style: circle inside;
+}
+ul li {
+  padding-left: 1.5em; 
+  text-indent: -1em;
+}
+
+
+
+.mt-1 {
+  margin-top: 1rem;
+}
+.mt-2 {
+  margin-top: 2rem;
+}
+
+.mt-5 {
+  margin-top: 5rem;
+}
+
+
+.h2 {
+  font-weight: 500;
+}
+
+.h3 {
+  font-weight: 600;
+  color: #333;
+  
+}
+
+.h4 {
+  font-weight: 500;
+  color: #333;
+}
+
+.h5{
+  font-weight: 800;
+}
+
+.h6 {
+  font-weight: 500;
+}
+
+.lead {
+  font-weight: 600;
+  color: #13283a;
+}
+
+footer {
+  padding-bottom: 20px;
+
+}

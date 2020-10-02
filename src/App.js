@@ -18,7 +18,7 @@ function App() {
       <HelmetProvider>
         <Header />
         <Switch>
-          <Route exact path="/" component={Home}></Route>
+          <Route exact path="/ai-website/" component={Home}></Route>
           <Route path="/about" component={About}></Route>
           <Route path="/resume" component={Resume}></Route>
           <Route path="/uses" component={Uses}></Route>

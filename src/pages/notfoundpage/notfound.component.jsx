@@ -13,7 +13,7 @@ const NotFound = () => (
         <h3 className="h3">You found a broken link.</h3>
         <p>
           Maybe you'd be better off at the{" "}
-          <Link to="/ai-website/" className="anchor">
+          <Link to="/" className="anchor">
             home
           </Link>{" "}
           page.

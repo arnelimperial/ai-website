@@ -15,10 +15,10 @@ const history = createBrowserHistory();
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router history={history}>
+    <HashRouter>
       <App />
 
-    </Router>
+    </HashRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
